@@ -38,11 +38,11 @@ header {
     padding: 1em;
     text-align: center;
     color: var(--accent2-color);
-    background-color:whitesmoke
+    background-color:#372772
 }
 
 header>h1 {
-    color:white
+    color:light paleturquoise
 }
 
 p {
