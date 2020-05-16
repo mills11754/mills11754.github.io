@@ -1,0 +1,42 @@
+main {
+    background-color: #eaf2fa;
+}
+p {
+    background-color: #adcbeb;
+
+}
+header {
+    color: Black;
+}
+nav {
+    background-color:#2d70b9;
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.2em
+}
+
+nav>ul {
+    list-style-type: none;
+    display: flex
+}
+
+nav a {
+    padding: 1em;
+    min-width: 70px
+}
+
+nav a:link,
+nav a:visited {
+    color:black
+}
+
+
+nav a:hover {
+    
+    background-color:#adcbeb
+}
+
+header, main, footer {
+    max-width: 960px;
+    margin: 0 auto;
+  }
